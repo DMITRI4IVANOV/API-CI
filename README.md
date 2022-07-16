@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/txbkenlnowxotgov?svg=true)](https://ci.appveyor.com/project/DMITRI4IVANOV/api-ci)
